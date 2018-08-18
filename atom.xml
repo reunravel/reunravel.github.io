@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>安定区</title>
+  
+  <subtitle>世间的一切不利因素，都是因为当事者能力太弱。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-18T23:48:28.190Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>佐佐木琲世</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇试水博客</title>
+    <link href="http://yoursite.com/2018/08/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E8%AF%95%E6%B0%B4%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/08/19/第一篇试水博客/</id>
+    <published>2018-08-18T23:48:28.000Z</published>
+    <updated>2018-08-18T23:48:28.190Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
