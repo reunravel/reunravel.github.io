@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-28T01:59:10.330Z</updated>
+  <updated>2018-08-28T02:07:03.030Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/08/28/%E4%BD%A0%E4%B8%8D%E6%83%B3%E8%B7%91%E6%AD%A5%E5%AF%B9%E5%90%A7/"/>
     <id>http://yoursite.com/2018/08/28/你不想跑步对吧/</id>
     <published>2018-08-28T01:51:41.000Z</published>
-    <updated>2018-08-28T01:59:10.330Z</updated>
+    <updated>2018-08-28T02:07:03.030Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="如果你-想偷个懒-因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！"><a href="#如果你-想偷个懒-因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！" class="headerlink" title="如果你 想偷个懒 因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！"></a>如果你 <del>想偷个懒</del> 因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！</h2><hr><h1 id="需要的准备"><a href="#需要的准备" class="headerlink" title="需要的准备"></a>需要的准备</h1><ul><li>一部安卓手机</li><li>获取<strong>root</strong></li><li>安装<strong>xposed框架</strong></li></ul><hr><h1 id="需要用到的APP"><a href="#需要用到的APP" class="headerlink" title="需要用到的APP"></a>需要用到的APP</h1><ul><li>xposed框架里的<strong>运动模拟器</strong>模块，用于模拟步频<br><img src="https://ws1.sinaimg.cn/large/006N1muNgy1fup6j5iunaj30u01hcgoc.jpg" alt="图挂了，等我补" title="运动模拟器"></li><li>xposed框架里的<strong>ANRC</strong>模块，用于模拟环境影藏root和xp</li><li>xposed框架里的<strong>对话框取消</strong>模块，用于自定义版本号。禁止应用更新</li><li><strong>大牛虚拟定位</strong>，用于模拟位置</li><li><strong>运动世界校园版</strong>旧版本，比如2.0.4</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="如果你-想偷个懒-因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！"><a href="#如果你-想偷个懒-因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！" class="headerlink" title="如果你 想偷个懒 因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！"></a>如果你 <del>想偷个懒</del> 因为各种理由不想或不能跑步，那么点进这篇博客的你是幸运的。摆脱多余的运动吧！</h2><hr><h1 id="需要的准备"><a href="#需要的准备" class="headerlink" title="需要的准备"></a>需要的准备</h1><ul><li>一部安卓手机</li><li>获取<strong>root</strong></li><li>安装<strong>xposed框架</strong></li></ul><hr><h1 id="需要用到的APP"><a href="#需要用到的APP" class="headerlink" title="需要用到的APP"></a>需要用到的APP</h1><ul><li>xposed框架里的<strong>运动模拟器</strong>模块，用于模拟步频<br><img src="https://ws1.sinaimg.cn/large/006N1muNgy1fup6j5iunaj30u01hcgoc.jpg" alt="图挂了，等我补" title="运动模拟器"></li><li>xposed框架里的<strong>ANRC</strong>模块，用于模拟环境影藏root和xp<br><img src="https://ws1.sinaimg.cn/large/006N1muNgy1fup6tglivkj30u01hc41g.jpg" alt="图挂了，等我补" title="ANRC"></li><li>xposed框架里的<strong>对话框取消</strong>模块，用于自定义版本号。禁止应用更新</li><li><strong>大牛虚拟定位</strong>，用于模拟位置</li><li><strong>运动世界校园版</strong>旧版本，比如2.0.4</li></ul>]]></content>
     
     <summary type="html">
     
